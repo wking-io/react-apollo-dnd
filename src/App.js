@@ -1,6 +1,5 @@
 import React from 'react';
 import styled from 'styled-components';
-import './App.css';
 import Intro from './components/Intro';
 import ParentContainer from './components/ParentContainer';
 
